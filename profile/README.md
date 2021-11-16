@@ -14,4 +14,4 @@ Microservices :
 
 ## Starting local development
 
-Some services are dependend to other services. We do our best to make sure this dependencies are declared in the `README.md` of each repository. Make sure you started these dependencies before beginning local development on a repository.
+Some services are dependend to other services. We do our best to make sure these dependencies are declared in the `README.md` of each repository. Make sure you started these dependencies before beginning local development on a repository.
