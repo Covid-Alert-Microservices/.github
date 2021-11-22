@@ -12,6 +12,7 @@ Microservices :
 - Compass (geolocation): [https://compass.covid.florent.best](https://compass.covid.florent.best)
 - Vaccines: [https:/vaccines.covid.florent.best](https:/vaccines.covid.florent.best)
 - Tests: [https://tests.covid.florent.best/](https://tests.covid.florent.best/)
+- Alerts: [https://alerts.covid.florent.best/](https://alerts.covid.florent.best/)
 
 ## Starting local development
 
