@@ -1,17 +1,10 @@
-![frontend](https://img.shields.io/uptimerobot/status/m789823695-2b9547ef15c4516fd702cf7b?label=frontend)
-![auth](https://img.shields.io/uptimerobot/status/m789823743-943d01e02633fc28b756483c?label=auth)
-![news](https://img.shields.io/uptimerobot/status/m789823753-3c274d1843eabca8f0087f3b?label=news)
-![geolocation](https://img.shields.io/uptimerobot/status/m789823761-5c7c727b3a30d006ebe653f2?label=geolocation)
-![alerts](https://img.shields.io/uptimerobot/status/m789823777-682ae17bd304cdb8000831ed?label=alerts)
-![vaccines](https://img.shields.io/uptimerobot/status/m789823769-ab53ecaae418a0753ed89f64?label=vaccines)
-![tests](https://img.shields.io/uptimerobot/status/m789823773-91b7679e145667dd061e4743?label=tests)
-
-
 # Covid Alert Microservices
 
 This organization expose all microservices repositories used for the school project "Covid Alert".
 
 You can access the hosted version of the project at [https://covid.florent.best/](https://covid.florent.best/).
+
+> Note: The website has been shut down, only the documentation link will work as it is hosted on Github Pages
 
 More information on [the website dedicated to specifications](https://covid-alert-microservices.github.io/specs/).
 
